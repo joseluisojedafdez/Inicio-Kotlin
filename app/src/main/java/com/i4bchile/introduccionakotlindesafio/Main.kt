@@ -40,7 +40,7 @@ package com.i4bchile.introduccionakotlindesafio
         variableString="Arataka Reigen"
         variableChar='A'
         println("La variableChar tiene ahora valor $variableChar")
-        println("La variable $variableString tiene ${variableString.length} caracteres")
+        println("El nombre $variableString tiene ${variableString.length} caracteres")
         variableChar='B'
         println("La variableChar tiene ahora valor $variableChar")
         val variableFloat:Float
