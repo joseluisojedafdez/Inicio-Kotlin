@@ -31,9 +31,9 @@ package com.i4bchile.introduccionakotlindesafio
         val numberOne=10
         val numberTwo=20
         val numberThree=30
-        val resultado=numberOne+numberTwo+numberThree
+        val result=numberOne+numberTwo+numberThree
 
-        println("La suma de $numberOne, $numberTwo, $numberThree es: $resultado")
+        println("La suma de $numberOne, $numberTwo, $numberThree es: $result")
 
         val variableString:String
         var variableChar:Char
